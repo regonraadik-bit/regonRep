@@ -1,2 +1,4 @@
 GitHub on veebipõhine platvorm, mis võimaldab hallata ja versioonida koodi, kasutades Git versioonihaldust.
 Seda kasutavad arendajad, disainerid ja IT-meeskonnad üle maailma, et teha koostööd tarkvaraprojektides.
+
+Mina saan GitHubi kasutada edaspidi koolitööde ja projektide talletamiseks.
